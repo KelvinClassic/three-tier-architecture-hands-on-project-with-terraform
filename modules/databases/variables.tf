@@ -16,7 +16,7 @@ variable "database_instance_config" {
     engine_version = "8.0.39"
     instance_class = "db.r5.large"
     username = "admin"
-    password = "Balzy2323"
+    password = ""
     identifier = "demo-my-database"
     availability_zone = "us-east-1a"
   }
